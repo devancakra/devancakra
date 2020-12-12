@@ -1,7 +1,7 @@
 # Hi I'm Devan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 📖 Currently Computer Science student at [University of Pembangunan Nasional "Veteran" East Java](https://www.upnjatim.ac.id/en/). <br>
-<p align="justify">I feel comfortable in the fields of UI / UX Design, Robotics, Software Engineering & Scientific work. Beside that I also like to do programming in windows OS. I come from Sragen, Central Java, Indonesia. I enjoy doing research even if I am not an expert.</p>
+<p align="justify">My focus is on desktop-based programming, but I can develop my skills in certain fields. I come from Sragen, Central Java, Indonesia. Even though I am not yet an expert in any particular field, my passion for research is still there, and trying my best, so that my work can be useful for others. That's all from me more or less, apologize and thank you.</p>
 </p>
 
 [![](http://img.shields.io/badge/-Instagram-lightgrey?logo=instagram&style=flat&logoColor=white&color=E4405F)](https://www.instagram.com/mr.deev_/)
