@@ -9,7 +9,8 @@
 [![](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:devancakra6@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-darkred?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcAeKJMpKMtx3PKnYJ4JdDg/)
 [![Schoolar Badge](https://img.shields.io/badge/-Schoolar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3)](https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/)
-[![Tinkercad Badge](https://img.shields.io/badge/-Tinkercad-lightgrey?logo=autodesk&style=flat&logoColor=white&color=00ae87)](https://www.tinkercad.com/users/611v3fxnBR9-devancakra?category=circuits&sort=likes&view_mode=default)
+[![Tinkercad Badge](https://img.shields.io/badge/-Tinkercad-lightgrey?logo=autodesk&style=flat&logoColor=white&color=000880)](https://www.tinkercad.com/users/611v3fxnBR9-devancakra?category=circuits&sort=likes&view_mode=default)
+[![Researchgate Badge](https://img.shields.io/badge/-Researchgate-lightgrey?logo=researchgate&style=flat&logoColor=white&color=00ae87)](https://www.researchgate.net/profile/Devan_Cakra_Mudra_Wijaya)
 
 <br>
 <br>
