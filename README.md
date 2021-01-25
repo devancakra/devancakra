@@ -4,9 +4,9 @@
 <p align="justify">My focus is on desktop-based programming, but I can develop my skills in certain fields. I come from Sragen, Central Java, Indonesia. Even though I am not yet an expert in any particular field, my passion for research is still there, and trying my best, so that my work can be useful for others. That's all from me more or less, apologize and thank you.</p>
 </p>
 
-[![](http://img.shields.io/badge/-Instagram-lightgrey?logo=instagram&style=flat&logoColor=white&color=E4405F)](https://www.instagram.com/mr.deev_/)
-[![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=1DA1F2)](https://twitter.com/DevanMudra)
-[![](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:devancakra6@gmail.com)
+[![Instagram](http://img.shields.io/badge/-Instagram-lightgrey?logo=instagram&style=flat&logoColor=white&color=C13584)](https://www.instagram.com/mr.deev_/)
+[![Twitter](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=1da1f2)](https://twitter.com/DevanMudra)
+[![Gmail](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222)](mailto:devancakra6@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-lightgrey?logo=youtube&style=flat&logoColor=white&color=ff0000)](https://www.youtube.com/channel/UCcAeKJMpKMtx3PKnYJ4JdDg/)
 [![Schoolar Badge](https://img.shields.io/badge/-Schoolar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3)](https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/)
 [![Tinkercad Badge](https://img.shields.io/badge/-Tinkercad-lightgrey?logo=autodesk&style=flat&logoColor=white&color=000880)](https://www.tinkercad.com/users/611v3fxnBR9-devancakra?category=circuits&sort=likes&view_mode=default)
