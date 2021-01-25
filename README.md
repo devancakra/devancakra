@@ -12,8 +12,4 @@
 [![Tinkercad Badge](https://img.shields.io/badge/-Tinkercad-lightgrey?logo=autodesk&style=flat&logoColor=white&color=000880)](https://www.tinkercad.com/users/611v3fxnBR9-devancakra?category=circuits&sort=likes&view_mode=default)
 [![Researchgate Badge](https://img.shields.io/badge/-Researchgate-lightgrey?logo=researchgate&style=flat&logoColor=white&color=00ae87)](https://www.researchgate.net/profile/Devan_Cakra_Mudra_Wijaya)
 
-<br>
-<br>
-
-## Github Status
 ![Devan Cakra M. W's github stats](https://github-readme-stats.vercel.app/api?username=devancakra&show_icons=true&theme=radical)
