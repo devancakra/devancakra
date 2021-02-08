@@ -5,7 +5,7 @@
 </p>
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-lightgrey?logo=youtube&style=flat&logoColor=white&color=ff0000)](https://www.youtube.com/channel/UCcAeKJMpKMtx3PKnYJ4JdDg/)
-[![Instagram](http://img.shields.io/badge/-Instagram-lightgrey?logo=instagram&style=flat&logoColor=white&color=C13584)](https://www.instagram.com/mr.deev_/)
+[![Instagram](http://img.shields.io/badge/-Instagram-lightgrey?logo=instagram&style=flat&logoColor=white&color=C13584)](https://www.instagram.com/wijayadcm/)
 [![Twitter](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=1da1f2)](https://twitter.com/DevanMudra)
 [![Gmail](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222)](mailto:devancakra6@gmail.com)
 [![Schoolar Badge](https://img.shields.io/badge/-Schoolar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3)](https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/)
