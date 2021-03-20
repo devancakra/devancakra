@@ -11,3 +11,4 @@
 [![Schoolar Badge](https://img.shields.io/badge/-Schoolar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3)](https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/)
 [![Researchgate Badge](https://img.shields.io/badge/-Researchgate-lightgrey?logo=researchgate&style=flat&logoColor=white&color=00ae87)](https://www.researchgate.net/profile/Devan_Cakra_Mudra_Wijaya)
 [![Tinkercad Badge](https://img.shields.io/badge/-Tinkercad-lightgrey?logo=autodesk&style=flat&logoColor=white&color=000880)](https://www.tinkercad.com/users/611v3fxnBR9-devancakra?category=circuits&sort=likes&view_mode=default)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-lightgrey?logo=linkedin&style=flat&logoColor=white&color=4169E1)](https://www.linkedin.com/in/devancmw/)
