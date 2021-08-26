@@ -1,6 +1,6 @@
 # Hi I'm Devan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-📖  3rd-year Computer Science student at [University of Pembangunan Nasional "Veteran" East Java](https://www.upnjatim.ac.id/en/). <br>
+📖  Final year computer science student at [University of Pembangunan Nasional "Veteran" East Java](https://www.upnjatim.ac.id/en/). <br>
 <p align="justify">
   I come from Sragen, Central Java, Indonesia.  My specialty is research, front-end development, ui/ux design, and graphic design.  I can also develop my skills in other fields.  I do my best to make my work useful for others.  That's all from me more or less, apologize and thank you.
 </p>
