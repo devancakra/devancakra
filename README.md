@@ -1,6 +1,7 @@
 # Hi I'm Devan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-📖  Final year computer science student at [University of Pembangunan Nasional "Veteran" East Java](https://www.upnjatim.ac.id/en/). <br><br>
+📖 &nbsp;Final year computer science student at [University of Pembangunan Nasional "Veteran" East Java](https://www.upnjatim.ac.id/en/). <br>
+👤 &nbsp; I was born in Sragen, Central Java, Indonesia.<br><br>
 <p align="justify"> 
   ✨Field of interest :
    <ul>
@@ -13,7 +14,7 @@
      <li>Multiplatform Development</li>
      <li>Bot Telegram Development</li>
      <li>Graphic Design</li>
-   </ul><br>
+   </ul>
 </p>
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-lightgrey?logo=youtube&style=flat&logoColor=white&color=ff0000)](https://www.youtube.com/channel/UCcAeKJMpKMtx3PKnYJ4JdDg/)
