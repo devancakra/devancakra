@@ -1,8 +1,19 @@
 # Hi I'm Devan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-📖  Final year computer science student at [University of Pembangunan Nasional "Veteran" East Java](https://www.upnjatim.ac.id/en/). <br>
-<p align="justify">
-  I come from Sragen, Central Java, Indonesia.  My specialty is research, front-end development, ui/ux design, and graphic design.  I can also develop my skills in other fields.  I do my best to make my work useful for others.  That's all from me more or less, apologize and thank you.
+📖  Final year computer science student at [University of Pembangunan Nasional "Veteran" East Java](https://www.upnjatim.ac.id/en/). <br><br>
+<p align="justify"> 
+  ✨Field of interest :
+   <ul>
+     <li>Front-End Web Development</li>
+     <li>Ui/Ux Design</li>
+     <li>System Controls</li>
+     <li>Internet of Things</li>
+     <li>API Development</li>
+     <li>Desktop Application Development</li>
+     <li>Multiplatform Development</li>
+     <li>Bot Telegram Development</li>
+     <li>Graphic Design</li>
+   </ul><br>
 </p>
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-lightgrey?logo=youtube&style=flat&logoColor=white&color=ff0000)](https://www.youtube.com/channel/UCcAeKJMpKMtx3PKnYJ4JdDg/)
