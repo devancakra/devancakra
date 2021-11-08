@@ -1,19 +1,15 @@
-# Hi I'm Devan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-📖 &nbsp;Final year computer science student at [University of Pembangunan Nasional "Veteran" East Java](https://www.upnjatim.ac.id/en/). <br>
-👤 &nbsp; I was born in Sragen, Central Java, Indonesia.<br><br>
 <p align="justify"> 
-  ✨Field of interest :
+  👤 <strong>About me :</strong>
+    <ul>
+      <li>Hi.. I'm Devan...</li>
+      <li>4th-year computer science student at <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a>. <br></li>
+      <li>Research Assistant FIK UPN Veteran Jatim<br><br></li>
+   </ul>
+   
+  ✨<strong>Areas of expertise :</strong>
    <ul>
-     <li>Front-End Web Development</li>
-     <li>Ui/Ux Design</li>
-     <li>System Controls</li>
-     <li>Internet of Things</li>
-     <li>API Development</li>
-     <li>Desktop Application Development</li>
-     <li>Multiplatform Development</li>
-     <li>Bot Telegram Development</li>
-     <li>Graphic Design</li>
+      <li>Software Engineering</li>
+      <li>Control Systems</li>
    </ul>
 </p>
 
