@@ -13,12 +13,8 @@
    </ul>
 </p>
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-lightgrey?logo=youtube&style=flat&logoColor=white&color=ff0000)](https://www.youtube.com/channel/UCcAeKJMpKMtx3PKnYJ4JdDg/)
-[![Instagram](http://img.shields.io/badge/-Instagram-lightgrey?logo=instagram&style=flat&logoColor=white&color=C13584)](https://www.instagram.com/dcm_wijaya/)
-[![Twitter](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=1da1f2)](https://twitter.com/DevanMudra)
 [![Gmail](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222)](mailto:devancakra6@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-lightgrey?logo=linkedin&style=flat&logoColor=white&color=4169E1)](https://www.linkedin.com/in/devancmw/)
 [![Schoolar Badge](https://img.shields.io/badge/-Schoolar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3)](https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/)
 [![Researchgate Badge](https://img.shields.io/badge/-Researchgate-lightgrey?logo=researchgate&style=flat&logoColor=white&color=00ae87)](https://www.researchgate.net/profile/Devan_Cakra_Mudra_Wijaya)
-[![Tinkercad Badge](https://img.shields.io/badge/-Tinkercad-lightgrey?logo=autodesk&style=flat&logoColor=white&color=000880)](https://www.tinkercad.com/users/611v3fxnBR9-devancakra?category=circuits&sort=likes&view_mode=default)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-lightgrey?logo=linkedin&style=flat&logoColor=white&color=4169E1)](https://www.linkedin.com/in/devancmw/)
 [![Academia Badge](https://img.shields.io/badge/-Academia-lightgrey?logo=academia&style=flat&logoColor=white&color=FF4500)](https://fitri.academia.edu/DevanCakraMudraWijaya)
