@@ -10,6 +10,7 @@
    <ul>
       <li>Software Engineering</li>
       <li>Control Systems</li>
+      <li>Internet of Things</li>
    </ul>
 </p>
 
