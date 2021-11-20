@@ -3,7 +3,7 @@
     <ul>
       <li>Hi.. I'm Devan...</li>
       <li>4th-year computer science student at <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a>. <br></li>
-      <li>Research Assistant FIK UPN Veteran Jatim<br><br></li>
+      <li>Research Assistant<br><br></li>
    </ul>
    
   ✨<strong>Areas of expertise :</strong>
