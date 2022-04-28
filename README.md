@@ -8,9 +8,8 @@
    
   ✨<strong>Areas of expertise :</strong>
    <ul>
+      <li>Hybrid Control Systems</li>
       <li>Software Engineering</li>
-      <li>Control Systems</li>
-      <li>Internet of Things</li>
    </ul>
 </p>
 
