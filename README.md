@@ -10,7 +10,9 @@
    <ul>
       <li>Hybrid Control Systems</li>
       <li>Software Engineering</li>
-   </ul>
+   </ul><br>
+   
+   Adaptable, like to learn new things, can work in a team or individually, and can solve problems.
 </p>
 
 [![Gmail](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222)](mailto:devancakra6@gmail.com)
