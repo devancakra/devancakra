@@ -2,7 +2,7 @@
   👤 <strong>About me :</strong>
     <ul>
       <li>Hi.. I'm Devan...</li>
-      <li>4th-year computer science student at <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a> (S.Kom).<br></li>
+      <li>Bachelor of Computer Science (S.Kom) at <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a>.<br></li>
       <li>Independent Researcher<br><br></li>
    </ul>
    
