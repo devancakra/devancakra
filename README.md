@@ -5,12 +5,7 @@
       <li>Bachelor of Computer Science (S.Kom) at <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a>.<br></li>
    </ul>
    
-  ✨<strong>Areas of expertise :</strong>
-   <ul>
-      <li>Control System</li>
-      <li>Internet of Things</li>
-      <li>Software Engineering</li>
-   </ul><br>
+  ✨<strong>Areas of interest :</strong> { Human Computer Interaction } <br>
    
    Adaptable, like to learn new things, can work in a team or individually, and can solve problems.
 </p>
