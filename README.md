@@ -2,7 +2,7 @@
   👤 <strong>About me :</strong>
     <ul>
       <li>Hi.. I'm Devan...</li>
-      <li>Bachelor of Computer Science (S.Kom) at <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a>.<br></li>
+      <li>Bachelor of Computer Science (S.Kom) from <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a>.<br></li>
    </ul>
    
   ✨<strong>Areas of interest :</strong> { Human Computer Interaction } <br>
