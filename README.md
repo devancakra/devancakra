@@ -5,13 +5,20 @@
       <li>Bachelor of Computer Science (S.Kom) from <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a>.<br></li>
    </ul>
    
-  ✨<strong>Areas of interest :</strong> { Human Computer Interaction } <br>
-   
-   Adaptable, like to learn new things, can work in a team or individually, and can solve problems.
+  ✨<strong>Areas of interest :</strong><br>
+  <ul>
+    <li> Internet of Things </li>
+    <li> Control Systems </li>
+    <li> Embedded System </li>
+    <li> Software Engineering </li>
+  </ul>
+  
+   <p>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.</p>
 </p>
 
-[![Gmail](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222)](mailto:devancakra6@gmail.com)
+[![Gmail_Badge](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222)](mailto:devancakra6@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-lightgrey?logo=linkedin&style=flat&logoColor=white&color=4169E1)](https://www.linkedin.com/in/devancmw/)
 [![Schoolar Badge](https://img.shields.io/badge/-Schoolar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3)](https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/)
 [![Researchgate Badge](https://img.shields.io/badge/-Researchgate-lightgrey?logo=researchgate&style=flat&logoColor=white&color=00ae87)](https://www.researchgate.net/profile/Devan_Cakra_Mudra_Wijaya)
 [![Academia Badge](https://img.shields.io/badge/-Academia-lightgrey?logo=academia&style=flat&logoColor=white&color=FF4500)](https://fitri.academia.edu/DevanCakraMudraWijaya)
+[![Tinkercad_Badge](https://img.shields.io/badge/-Tinkercad-light?logo=adobe&style=flat&logoColor=white&color=008B8B)](https://www.tinkercad.com/users/611v3fxnBR9-devancakra?category=circuits&sort=likes&view_mode=default)
