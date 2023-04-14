@@ -8,7 +8,6 @@
   ✨<strong>Areas of interest :</strong><br>
   <ul>
     <li> Internet of Things </li>
-    <li> Control Systems </li>
     <li> Embedded System </li>
     <li> Software Engineering </li>
   </ul>
