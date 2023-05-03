@@ -15,9 +15,9 @@
    <p>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.</p>
 </p>
 
-[![Gmail_Badge](http://img.shields.io/badge/-Mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222)](mailto:devancakra6@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-lightgrey?logo=linkedin&style=flat&logoColor=white&color=4169E1)](https://www.linkedin.com/in/devancmw/)
-[![Schoolar Badge](https://img.shields.io/badge/-Schoolar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3)](https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/)
+[![Gmail_Badge](http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222)](mailto:devancakra6@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=flat&logoColor=white&color=4169E1)](https://www.linkedin.com/in/devancmw/)
+[![ORCID_Badge](https://img.shields.io/badge/-ORCID-lightgrey?logo=orcid&style=flat&logoColor=white&color=00AD55)](https://orcid.org/0000-0002-9025-7242)
+[![Schoolar Badge](https://img.shields.io/badge/-G-%2DScholar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3)](https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/)
 [![Researchgate Badge](https://img.shields.io/badge/-Researchgate-lightgrey?logo=researchgate&style=flat&logoColor=white&color=00ae87)](https://www.researchgate.net/profile/Devan_Cakra_Mudra_Wijaya)
 [![Academia Badge](https://img.shields.io/badge/-Academia-lightgrey?logo=academia&style=flat&logoColor=white&color=FF4500)](https://fitri.academia.edu/DevanCakraMudraWijaya)
-[![Tinkercad_Badge](https://img.shields.io/badge/-Tinkercad-light?logo=adobe&style=flat&logoColor=white&color=008B8B)](https://www.tinkercad.com/users/611v3fxnBR9-devancakra?category=circuits&sort=likes&view_mode=default)
