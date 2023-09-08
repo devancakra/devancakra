@@ -7,9 +7,9 @@
    
   ✨<strong>Areas of interest :</strong><br>
   <ul>
-    <li> Internet of Things </li>
-    <li> Embedded System </li>
+    <li> Embedded System & IoT </li>
     <li> Software Engineering </li>
+    <li> Computer System & Network </li>
   </ul>
   
    <p>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.</p>
