@@ -2,6 +2,7 @@
   👤 <strong>About me :</strong>
     <ul>
       <li>Hi.. I'm Devan...</li>
+      <li>IT & Business Enthusiast</li>
       <li>Bachelor of Computer Science (S.Kom) from <a href="https://www.upnjatim.ac.id/en/" target="_blank">UPN Veteran Jatim</a>.<br></li>
    </ul>
    
