@@ -304,8 +304,10 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
   <a align="center" href="#" disabled><img width="50" height="50" alt="plus" src="https://github.com/devancakra/devancakra/assets/54527592/a955ad32-d594-4d99-a27d-7553d6d3b0d3"></a>
 </div>
 
+<br><br>
+
 <div id="githubstats" align="center">
-  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&layout=compact&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
       
-  <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devancakra&show_icons=true&theme=tokyonight" style="margin-top: 150px;">
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devancakra&show_icons=true&hide=scss&layout=compact&theme=tokyonight">
 </div>
