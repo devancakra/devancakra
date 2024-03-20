@@ -2,7 +2,7 @@
 <h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
-Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br><strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.
+Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br>I am a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I am adaptable, like to learn new things, can work in a team or individually, and can solve problems.
 
 </div>
 
