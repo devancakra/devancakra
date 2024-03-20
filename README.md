@@ -290,9 +290,9 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/5b6124ba-712f-414f-8cae-734a975df49b" width="48" height="48" alt="matlab">
             </a><br>
-            <p></p>
+            <p>Matlab</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
