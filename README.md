@@ -230,15 +230,9 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/833b9ba4-19cc-4f5b-8d5e-b7f12cc55c8e" width="48" height="48" alt="nodered">
             </a><br>
-            <p></p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
-            </a><br>
-            <p></p>
+            <p>Node Red</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
@@ -251,6 +245,12 @@
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/480e56c5-fb60-4490-8467-e65bf6226af9" width="48" height="48" alt="xampp">
             </a><br>
             <p>Xampp</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/7ad18c77-809a-4196-a132-f69ec2127d35" width="48" height="48" alt="composer">
+            </a><br>
+            <p>Composer</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
