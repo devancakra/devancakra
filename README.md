@@ -152,6 +152,7 @@
   <a align="center" href="https://www.youtube.com/channel/UCkTp-v7MD7C6rYnjsU0bBWg" target="_blank"><img width="50" height="50" alt="Ardumeka Community" src="https://github.com/devancakra/devancakra/assets/54527592/1d8cd489-355b-4bd3-9778-a5cbe248ee79"></a>
   <br>
   <a align="center" href="https://indobot.co.id/" target="_blank"><img width="50" height="50" alt="Indobot Community" src="https://github.com/devancakra/devancakra/assets/54527592/6ca90b3f-2c76-4e86-85f2-c707bb845af6"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://progate.com/" target="_blank"><img width="50" height="50" alt="Progate Community" src="https://github.com/devancakra/devancakra/assets/54527592/350c2ce4-d905-45f2-8419-288134181545"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="50" height="50" alt="ICS Community" src="https://github.com/devancakra/devancakra/assets/54527592/cf9f0e97-18f4-402c-9913-a79d93d2373f"></a>
 </p>
 
