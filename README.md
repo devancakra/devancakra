@@ -3,12 +3,12 @@
 <ul>
   <li>
     
-  Hi everyone.. &nbsp;&nbsp; I am ``` Devan ```, welcome to ``` My Github ```.
+  Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.
     
   </li>
   <li>
   
-  ``` Bachelor of Computer Science (S.Kom) ``` from ``` UPN Veteran Jatim ```.
+  <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.
   
   </li>
   <li>
