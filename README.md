@@ -148,7 +148,8 @@
   <a align="center" href="https://digitalent.kominfo.go.id/" target="_blank"><img width="50" height="50" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/533e497c-4b1d-4a42-b94d-d6be6a69cd6f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://edspert.id/" target="_blank"><img width="50" height="50" alt="Edspert Community" src="https://github.com/devancakra/devancakra/assets/54527592/5bce86ba-733a-4218-9605-87ad8f994966"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://www.dicoding.com/" target="_blank"><img width="50" height="50" alt="Dicoding Community" src="https://github.com/devancakra/devancakra/assets/54527592/7c5ffc0f-f182-4095-8efb-122b1dad4b3b"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://nusabot.id/" target="_blank"><img width="50" height="50" alt="Nusabot Community" src="https://github.com/devancakra/devancakra/assets/54527592/2ddacc7d-1fb2-4500-b533-6c156fea54a4"></a>
+  <a align="center" href="https://nusabot.id/" target="_blank"><img width="50" height="50" alt="Nusabot Community" src="https://github.com/devancakra/devancakra/assets/54527592/2ddacc7d-1fb2-4500-b533-6c156fea54a4"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://www.youtube.com/channel/UCkTp-v7MD7C6rYnjsU0bBWg" target="_blank"><img width="50" height="50" alt="Ardumeka Community" src="https://github.com/devancakra/devancakra/assets/54527592/1d8cd489-355b-4bd3-9778-a5cbe248ee79"></a>
   <br>
   <a align="center" href="https://indobot.co.id/" target="_blank"><img width="50" height="50" alt="Indobot Community" src="https://github.com/devancakra/devancakra/assets/54527592/6ca90b3f-2c76-4e86-85f2-c707bb845af6"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
