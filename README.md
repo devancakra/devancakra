@@ -64,12 +64,6 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#language">
-                <img src="https://github.com/devancakra/devancakra/assets/54527592/d60475b9-36de-49a1-8d77-98eb314168b7" width="48" height="48" alt="json">
-            </a><br>
-            <p>JSON</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#language">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/5d40394a-1d83-4da0-b4ac-543b286ae781" width="48" height="48" alt="python">
             </a><br>
             <p>Python</p>
