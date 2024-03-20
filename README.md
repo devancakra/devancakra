@@ -134,9 +134,9 @@
 
 <h2 id="sosmedandacademicrecords" align="center">🧑‍💻 My Social Media & Academic Records</h2>
 <p align="center">
-  <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=for-the-badge&logoColor=white&color=b22222"></a>
-  <a align="center" href="https://www.linkedin.com/in/devancmw/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=for-the-badge&logoColor=white&color=4169E1"></a>
-  <a align="center" href="https://orcid.org/0000-0002-9025-7242" target="_blank"><img alt="ORCid" src="https://img.shields.io/badge/-ORCID-lightgrey?logo=orcid&style=for-the-badge&logoColor=white&color=9ACD32"></a>
+  <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=for-the-badge&logoColor=white&color=b22222"></a>&nbsp;&nbsp;
+  <a align="center" href="https://www.linkedin.com/in/devancmw/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=for-the-badge&logoColor=white&color=4169E1"></a>&nbsp;&nbsp;
+  <a align="center" href="https://orcid.org/0000-0002-9025-7242" target="_blank"><img alt="ORCid" src="https://img.shields.io/badge/-ORCID-lightgrey?logo=orcid&style=for-the-badge&logoColor=white&color=9ACD32"></a>&nbsp;&nbsp;
   <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/-G-%2DScholar-lightgrey?logo=google-scholar&style=for-the-badge&logoColor=white&color=0056f3"></a>
 </p>
 
@@ -154,7 +154,7 @@
   <a align="center" href="https://indobot.co.id/" target="_blank"><img width="50" height="50" alt="Indobot Community" src="https://github.com/devancakra/devancakra/assets/54527592/6ca90b3f-2c76-4e86-85f2-c707bb845af6"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://progate.com/" target="_blank"><img width="50" height="50" alt="Progate Community" src="https://github.com/devancakra/devancakra/assets/54527592/350c2ce4-d905-45f2-8419-288134181545"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="50" height="50" alt="ICS Community" src="https://github.com/devancakra/devancakra/assets/54527592/cf9f0e97-18f4-402c-9913-a79d93d2373f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="#" target="_blank"><img width="50" height="50" alt="plus" src="https://github.com/devancakra/devancakra/assets/54527592/a955ad32-d594-4d99-a27d-7553d6d3b0d3"></a>
+  <a align="center" href="#" disabled><img width="50" height="50" alt="plus" src="https://github.com/devancakra/devancakra/assets/54527592/a955ad32-d594-4d99-a27d-7553d6d3b0d3"></a>
 </p>
 
 <br><br>
