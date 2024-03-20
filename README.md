@@ -1,46 +1,13 @@
-<h3 id="about">👤 About me :</h3>
-<p align="justify"> 
-<ul>
-  <li>
-    
-  Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.
-    
-  </li>
-  <li>
-  
-  <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.
-  
-  </li>
-  <li>
-  
-  Adaptable, like to learn new things, can work in a team or individually, and can solve problems.
-  
-  </li>
-</ul>
-</p>
+![](https://komarev.com/ghpvc/?username=devancakra&color=026efa&label=Visitor)
+<h2 id="about" align="center">👤 About me</h3>
+<p align="center">Hi everyone.. &nbsp;&nbsp; I am <strong><a href=#>Devan</a></strong>, welcome to <strong><a href=#>My Github</a></strong>.<br><br><strong><a href=#>Bachelor of Computer Science (S.Kom)</a></strong> from <strong><a href=#>UPN Veteran Jatim</a></strong>.<br><br>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.</p>
 
-<br>
+<br><br>
 
-<h3 id="scope">✨ Expertise :</h3>
-<p><ul>
-  <li>
-      
-  Robotics & Embedded System
-      
-  </li>
-  <li> 
-    
-  Internet of Things 
-    
-  </li>
-  <li> 
-    
-  Software Engineering 
-    
-  </li>
-</ul></p>
+<h2 id="scope" align="center">✨ Expertise</h3>
+<p align="center">• Robotics & Embedded System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Internet of Things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Software Engineering</p>
 
-<br>
+<br><br>
 
 <h3 id="basicknowledge">💻 Basic Knowledge Skills :</h3>
 <details>
@@ -95,10 +62,19 @@
 </table>
 </details>
 
-<br>
+<br><br>
 
-<h3 id="sosmedandacademicrecords">🧑‍💻 Social Media & Academic Records :</h3>
-<a href="mailto:devancakra6@gmail.com"><img src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222"></a>
-<a href="https://www.linkedin.com/in/devancmw/"><img src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=flat&logoColor=white&color=4169E1"></a>
-<a href="https://orcid.org/0000-0002-9025-7242"><img src="https://img.shields.io/badge/-ORCID-lightgrey?logo=orcid&style=flat&logoColor=white&color=9ACD32"></a>
-<a href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/"><img src="https://img.shields.io/badge/-G-%2DScholar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3"></a>
+<h2 id="sosmedandacademicrecords" align="center">🧑‍💻 Social Media & Academic Records :</h3>
+<p align="center">
+  <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=for-the-badge&logoColor=white&color=b22222"></a>
+  <a align="center" href="https://www.linkedin.com/in/devancmw/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=for-the-badge&logoColor=white&color=4169E1"></a>
+  <a align="center" href="https://orcid.org/0000-0002-9025-7242" target="_blank"><img alt="ORCid" src="https://img.shields.io/badge/-ORCID-lightgrey?logo=orcid&style=for-the-badge&logoColor=white&color=9ACD32"></a>
+  <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/-G-%2DScholar-lightgrey?logo=google-scholar&style=for-the-badge&logoColor=white&color=0056f3"></a>
+</p>
+
+<br><br>
+
+<p id="githubstats" align="center">
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devancakra&show_icons=true&theme=tokyonight">
+</p>
