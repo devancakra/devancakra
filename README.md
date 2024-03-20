@@ -74,6 +74,12 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/480e56c5-fb60-4490-8467-e65bf6226af9" width="48" height="48" alt="xampp">
+            </a><br>
+            <p>Xampp</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/83d22e48-ab9e-487b-9ed7-8ecf47a70087" width="48" height="48" alt="git">
             </a><br>
             <p>Git</p>
@@ -90,6 +96,20 @@
             </a><br>
             <p>MongoDB</p>
         </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/7ad18c77-809a-4196-a132-f69ec2127d35" width="48" height="48" alt="composer">
+            </a><br>
+            <p>Composer</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/ee055d6d-6f54-42e9-ba65-0b6454cf8ff4" width="48" height="48" alt="ngrok">
+            </a><br>
+            <p>Ngrok</p>
+        </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/f3b9512c-7b64-4705-8a94-643468a88d7f" width="48" height="48" alt="bootstrap">
@@ -114,14 +134,14 @@
             </a><br>
             <p>Node JS</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/928b0e03-852c-4ee8-ad56-475024fb386a" width="48" height="48" alt="react">
             </a><br>
             <p>React JS</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/fcacc184-235f-43bd-b787-d92627e4cc98" width="48" height="48" alt="vuejs">
@@ -160,18 +180,12 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="https://github.com/devancakra/devancakra/assets/54527592/c13b26e9-2dee-4a08-a526-ef28abaa8115" width="48" height="48" alt="mosquitto">
-            </a><br>
-            <p>Mosquito MQTT</p>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/57bf54f2-34c7-4de9-8026-f3146386edea" width="48" height="48" alt="kodular">
             </a><br>
             <p>Kodular</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/90ac93f9-050d-4b09-87b6-184cb369551e" width="48" height="48" alt="mitappinventor">
@@ -208,14 +222,20 @@
             </a><br>
             <p>Ubidots</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/73b9af83-664e-4d03-9c14-4a278684f3d9" width="48" height="48" alt="thingspeak">
             </a><br>
             <p>Thingspeak</p>
         </td>
-    </tr>
-    <tr>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/c13b26e9-2dee-4a08-a526-ef28abaa8115" width="48" height="48" alt="mosquitto">
+            </a><br>
+            <p>Mosquito MQTT</p>
+        </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/9c0917aa-ed10-4cd1-a1ec-567a4235dcf2" width="48" height="48" alt="io-t.net">
@@ -236,24 +256,6 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="https://github.com/devancakra/devancakra/assets/54527592/ee055d6d-6f54-42e9-ba65-0b6454cf8ff4" width="48" height="48" alt="ngrok">
-            </a><br>
-            <p>Ngrok</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
-                <img src="https://github.com/devancakra/devancakra/assets/54527592/480e56c5-fb60-4490-8467-e65bf6226af9" width="48" height="48" alt="xampp">
-            </a><br>
-            <p>Xampp</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
-                <img src="https://github.com/devancakra/devancakra/assets/54527592/7ad18c77-809a-4196-a132-f69ec2127d35" width="48" height="48" alt="composer">
-            </a><br>
-            <p>Composer</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/c909b6a8-c6e5-4fc3-abae-eff7e925df6f" width="48" height="48" alt="eagle">
             </a><br>
             <p>Autodesk Eagle</p>
@@ -263,7 +265,7 @@
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/d02bd0db-2595-4697-a35b-06f261bc747a" width="48" height="48" alt="photoshop">
             </a><br>
             <p>Adobe Photoshop</p>
-        </td>
+        </td>        
     </tr>
 </table>
 
@@ -298,5 +300,6 @@
 
 <p id="githubstats" align="center">
   <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
+      
   <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devancakra&show_icons=true&theme=tokyonight">
 </p>
