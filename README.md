@@ -242,15 +242,15 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/ee055d6d-6f54-42e9-ba65-0b6454cf8ff4" width="48" height="48" alt="ngrok">
             </a><br>
-            <p></p>
+            <p>Ngrok</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/480e56c5-fb60-4490-8467-e65bf6226af9" width="48" height="48" alt="xampp">
             </a><br>
-            <p></p>
+            <p>Xampp</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
