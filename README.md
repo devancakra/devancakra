@@ -146,7 +146,9 @@
 <p id="community" align="center">
   <a align="center" href="https://www.instagram.com/robotics_upnjatim/" target="_blank"><img width="80" height="80" alt="Robotics UPN Community" src="https://github.com/devancakra/devancakra/assets/54527592/729676d2-e6e2-4fc3-a599-b86aae653bda"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://digitalent.kominfo.go.id/" target="_blank"><img width="80" height="80" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/533e497c-4b1d-4a42-b94d-d6be6a69cd6f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://edspert.id/" target="_blank"><img width="80" height="80" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/5bce86ba-733a-4218-9605-87ad8f994966"></a>
+  <a align="center" href="https://edspert.id/" target="_blank"><img width="80" height="80" alt="Edspert Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/5bce86ba-733a-4218-9605-87ad8f994966"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://www.dicoding.com/" target="_blank"><img width="80" height="80" alt="Dicoding Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/7c5ffc0f-f182-4095-8efb-122b1dad4b3b"></a>
+  
     
 </p>
 
