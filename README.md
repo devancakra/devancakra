@@ -278,9 +278,9 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
     <tr>        
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/460d37e8-dd5c-409e-8fcf-4b8b78356316" width="48" height="48" alt="gas">
             </a><br>
-            <p></p>
+            <p>Google Apps Script</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
