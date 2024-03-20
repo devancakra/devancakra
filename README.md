@@ -162,15 +162,15 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/57bf54f2-34c7-4de9-8026-f3146386edea" width="48" height="48" alt="kodular">
             </a><br>
-            <p></p>
+            <p>Kodular</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/90ac93f9-050d-4b09-87b6-184cb369551e" width="48" height="48" alt="mitappinventor">
             </a><br>
-            <p></p>
+            <p>MIT App Inventor</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
