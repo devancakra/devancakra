@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=devancakra&color=026efa&label=Visitor)
 <h2 id="about" align="center">👤 About me</h3>
-<p align="center">Hi everyone.. &nbsp;&nbsp; I am <strong><u>Devan</u></strong>, welcome to <strong><u>My Github</u></strong>.<br><br><strong><u>Bachelor of Computer Science (S.Kom)</u></strong> from <strong><u>UPN Veteran Jatim</u></strong>.<br><br>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.</p>
+<p align="center">Hi everyone.. &nbsp;&nbsp; I am <strong>Devan</strong>, welcome to <strong>My Github</strong>.<br><br><strong>Bachelor of Computer Science (S.Kom)</strong> from <strong>UPN Veteran Jatim</strong>.<br><br>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.</p>
 
 <br><br>
 
@@ -9,7 +9,7 @@
 
 <br><br>
 
-<h3 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h3>
+<h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h3>
 <details>
 <summary><strong>Programming Language/Tools/ETC</strong></summary>
 <br>
