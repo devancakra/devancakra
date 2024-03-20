@@ -97,12 +97,8 @@
 
 <br>
 
-<h3 id="connect">📲 Connect with me:</h3>
+<h3 id="sosmedandacademicrecords">📲 Social Media & Academic Records :</h3>
 <a href="mailto:devancakra6@gmail.com"><img src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=flat&logoColor=white&color=b22222"></a>
 <a href="https://www.linkedin.com/in/devancmw/"><img src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=flat&logoColor=white&color=4169E1"></a>
-
-<br><br>
-
-<h3 id="connect">✏️ Academic Records:</h3>
 <a href="https://orcid.org/0000-0002-9025-7242"><img src="https://img.shields.io/badge/-ORCID-lightgrey?logo=orcid&style=flat&logoColor=white&color=9ACD32"></a>
 <a href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/"><img src="https://img.shields.io/badge/-G-%2DScholar-lightgrey?logo=google-scholar&style=flat&logoColor=white&color=0056f3"></a>
