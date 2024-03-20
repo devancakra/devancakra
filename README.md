@@ -68,57 +68,153 @@
     <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/426a124c-d17f-487b-8f0a-62233acb249b" width="48" height="48" alt="vscode">
             </a><br>
-            <p>Dummy</p>
+            <p>VS Code</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/83d22e48-ab9e-487b-9ed7-8ecf47a70087" width="48" height="48" alt="git">
             </a><br>
-            <p>Dummy</p>
-        </td><td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
-            </a><br>
-            <p>Dummy</p>
+            <p>Git</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/dc7ef77d-cecf-44b9-98a0-ddc21257149c" width="48" height="48" alt="mysql">
             </a><br>
-            <p>Dummy</p>
-        </td><td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
-            </a><br>
-            <p>Dummy</p>
+            <p>MySQL</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/53cb5493-db97-4e14-a8d6-514545a292ac" width="48" height="48" alt="mongodb">
             </a><br>
-            <p>Dummy</p>
+            <p>MongoDB</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/f3b9512c-7b64-4705-8a94-643468a88d7f" width="48" height="48" alt="bootstrap">
+            </a><br>
+            <p>Bootstrap</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/95c3ea85-f316-4b04-b692-73af4150e893" width="48" height="48" alt="codeigniter">
+            </a><br>
+            <p>CodeIgniter</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/689180c6-cb43-434f-99b7-6dee7d51ee23" width="48" height="48" alt="laravel">
+            </a><br>
+            <p>Laravel</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/8a0e9f9a-bdd8-4356-a920-94f2619e09c3" width="48" height="48" alt="nodejs">
+            </a><br>
+            <p>Node JS</p>
         </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/928b0e03-852c-4ee8-ad56-475024fb386a" width="48" height="48" alt="react">
             </a><br>
-            <p>Dummy</p>
+            <p>React JS</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/fcacc184-235f-43bd-b787-d92627e4cc98" width="48" height="48" alt="vuejs">
             </a><br>
-            <p>Dummy</p>
+            <p>Vue JS</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/d2047da5-75fa-4616-a019-bfb2b3adae31" width="48" height="48" alt="docker">
             </a><br>
-            <p>Dummy</p>
+            <p>Docker</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/9a801466-35b6-4c4b-a3dd-4285fe97ef45" width="48" height="48" alt="firebase">
+            </a><br>
+            <p>Firebase</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/da8c2dca-a378-463f-8eae-35450036cfda" width="48" height="48" alt="arduinoide">
+            </a><br>
+            <p>Arduino IDE</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/45beed2a-5967-41e3-a6e0-8c17254c2e37" width="48" height="48" alt="thonnyide">
+            </a><br>
+            <p>Thonny IDE</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/c13b26e9-2dee-4a08-a526-ef28abaa8115" width="48" height="48" alt="mosquitto">
+            </a><br>
+            <p>Mosquito MQTT</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
         </td>
     </tr>
 </table>
