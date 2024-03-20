@@ -132,7 +132,7 @@
 
 <br><br>
 
-<h2 id="sosmedandacademicrecords" align="center">🧑‍💻 Social Media & Academic Records</h2>
+<h2 id="sosmedandacademicrecords" align="center">🧑‍💻 My Social Media & Academic Records</h2>
 <p align="center">
   <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=for-the-badge&logoColor=white&color=b22222"></a>
   <a align="center" href="https://www.linkedin.com/in/devancmw/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=for-the-badge&logoColor=white&color=4169E1"></a>
@@ -142,10 +142,15 @@
 
 <br><br>
 
+<h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
+<p id="community" align="center">
+  <a align="center" href="#" target="_blank"><img width="80" height="80" alt="Robotics UPN Community" src="https://github.com/devancakra/devancakra/assets/54527592/729676d2-e6e2-4fc3-a599-b86aae653bda"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="#" target="_blank"><img width="80" height="80" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/533e497c-4b1d-4a42-b94d-d6be6a69cd6f"></a>
+</p>
+
+<br><br>
+
 <p id="githubstats" align="center">
   <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devancakra&show_icons=true&theme=tokyonight">
-  <br><br>
-  <img align="center" alt="Robotics UPN Community" src="https://github.com/devancakra/devancakra/assets/54527592/729676d2-e6e2-4fc3-a599-b86aae653bda">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/533e497c-4b1d-4a42-b94d-d6be6a69cd6f">
 </p>
