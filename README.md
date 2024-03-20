@@ -9,7 +9,7 @@
 
 <br><br>
 
-<h3 id="basicknowledge">💻 Basic Knowledge Skills :</h3>
+<h3 id="basicknowledge" align="center">💻 Basic Knowledge Skills :</h3>
 <details>
 <summary><strong>Programming Language/Tools/ETC</strong></summary>
 <br>
