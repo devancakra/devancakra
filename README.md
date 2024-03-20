@@ -15,57 +15,57 @@
     <tr>
         <td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/ea01bef9-194b-4e16-af0f-349cba7a3f7c" width="48" height="48" alt="c">
             </a><br>
-            <p>Dummy</p>
+            <p>C</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/db0ac42d-0271-438c-ab82-c3b4cba39919" width="48" height="48" alt="c++">
             </a><br>
-            <p>Dummy</p>
+            <p>C++</p>
         </td><td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/8fe43f79-24e8-45b7-be67-0c0fa3d8eaa1" width="48" height="48" alt="vb6">
             </a><br>
-            <p>Dummy</p>
+            <p>VisualBasic 6</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/e648b21a-0ce7-45d9-bf29-f9773a4a50d1" width="48" height="48" alt="js">
             </a><br>
-            <p>Dummy</p>
+            <p>Javascript</p>
         </td><td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/73f1b500-b5e5-472e-85d3-5ef7602830bd" width="48" height="48" alt="php">
             </a><br>
-            <p>Dummy</p>
+            <p>PHP</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/505ef7c4-afe3-480a-b3a6-fc6f7a98c8f5" width="48" height="48" alt="sql">
             </a><br>
-            <p>Dummy</p>
+            <p>SQL</p>
         </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/d60475b9-36de-49a1-8d77-98eb314168b7" width="48" height="48" alt="json">
             </a><br>
-            <p>Dummy</p>
+            <p>JSON</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/5d40394a-1d83-4da0-b4ac-543b286ae781" width="48" height="48" alt="python">
             </a><br>
-            <p>Dummy</p>
+            <p>Python</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#language">
-                <img src="dummy.png" width="48" height="48" alt="dummy">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/0dd1d0b4-2df2-4336-be42-a2256f40087f" width="48" height="48" alt="micropython">
             </a><br>
-            <p>Dummy</p>
+            <p>MicroPython</p>
         </td>
     </tr>
 </table><br>
