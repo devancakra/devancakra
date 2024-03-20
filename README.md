@@ -270,23 +270,23 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
         </td>  
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="https://github.com/devancakra/devancakra/assets/54527592/c909b6a8-c6e5-4fc3-abae-eff7e925df6f" width="48" height="48" alt="eagle">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/71dd917d-e8ec-40ec-80c0-7ab0996be1f5" width="48" height="48" alt="thingerio">
             </a><br>
-            <p>Autodesk Eagle</p>
+            <p>Thinger.io</p>
         </td>
     </tr>
     <tr>        
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="https://github.com/devancakra/devancakra/assets/54527592/460d37e8-dd5c-409e-8fcf-4b8b78356316" width="48" height="48" alt="gas">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/c909b6a8-c6e5-4fc3-abae-eff7e925df6f" width="48" height="48" alt="eagle">
             </a><br>
-            <p>Google Apps Script</p>
+            <p>Autodesk Eagle</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/460d37e8-dd5c-409e-8fcf-4b8b78356316" width="48" height="48" alt="gas">
             </a><br>
-            <p></p>
+            <p>Google Apps Script</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
