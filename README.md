@@ -254,15 +254,15 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
-            </a><br>
-            <p></p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/c909b6a8-c6e5-4fc3-abae-eff7e925df6f" width="48" height="48" alt="eagle">
             </a><br>
             <p>Autodesk Eagle</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/d02bd0db-2595-4697-a35b-06f261bc747a" width="48" height="48" alt="photoshop">
+            </a><br>
+            <p>Adobe Photoshop</p>
         </td>
     </tr>
 </table>
