@@ -9,11 +9,11 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
 <br><br>
 
 <h2 id="scope" align="center">✨ Expertise</h2>
-<div align="center">
+<h4><div align="center">
     
 • ``` Robotics & Embedded System ``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • ``` Internet of Things ``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • ``` Software Engineering ```
     
-</div>
+</div></h4>
 
 <br><br>
 
@@ -261,19 +261,45 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/833b9ba4-19cc-4f5b-8d5e-b7f12cc55c8e" width="48" height="48" alt="nodered">
             </a><br>
             <p>Node Red</p>
-        </td>
+        </td>  
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/044161c1-55bf-4dc0-9764-1e07a4fb0121" width="48" height="48" alt="hivemq">
+            </a><br>
+            <p>HiveMQ</p>
+        </td>  
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/c909b6a8-c6e5-4fc3-abae-eff7e925df6f" width="48" height="48" alt="eagle">
             </a><br>
             <p>Autodesk Eagle</p>
         </td>
+    </tr>
+    <tr>        
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/d02bd0db-2595-4697-a35b-06f261bc747a" width="48" height="48" alt="photoshop">
             </a><br>
             <p>Adobe Photoshop</p>
-        </td>        
+        </td>
     </tr>
 </table>
 
