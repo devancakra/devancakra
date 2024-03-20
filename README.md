@@ -1,70 +1,138 @@
 ![](https://komarev.com/ghpvc/?username=devancakra&color=026efa&label=Visitor)
-<h2 id="about" align="center">👤 About me</h3>
+<h2 id="about" align="center">👤 About me</h2>
 <p align="center">Hi everyone.. &nbsp;&nbsp; I am <strong>Devan</strong>, welcome to <strong>My Github</strong>.<br><br><strong>Bachelor of Computer Science (S.Kom)</strong> from <strong>UPN Veteran Jatim</strong>.<br><br>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.</p>
 
 <br><br>
 
-<h2 id="scope" align="center">✨ Expertise</h3>
+<h2 id="scope" align="center">✨ Expertise</h2>
 <p align="center">• Robotics & Embedded System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Internet of Things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Software Engineering</p>
 
 <br><br>
 
-<h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h3>
-<details>
-<summary><strong>Programming Language/Tools/ETC</strong></summary>
-<br>
-<br>
-<table>
+<h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
+<h4 id="language" align="center"><strong>Programming Language</strong></h4>
+<table align="center">
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#language">
                 <img src="dummy.png" width="48" height="48" alt="dummy">
             </a><br>
-            Dummy
+            <p>Dummy</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#language">
                 <img src="dummy.png" width="48" height="48" alt="dummy">
             </a><br>
-            Dummy
+            <p>Dummy</p>
+        </td><td align="center" width="96" height="96">
+            <a href="#language">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#language">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td><td align="center" width="96" height="96">
+            <a href="#language">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#language">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
         </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#language">
                 <img src="dummy.png" width="48" height="48" alt="dummy">
             </a><br>
-            Dummy
+            <p>Dummy</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#language">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#language">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td>
+    </tr>
+</table><br>
+
+<h4 id="platformtoolssupport" align="center"><strong>Platform/Tools/Support</strong></h4>
+<table align="center">
+    <tr>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td><td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td><td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="dummy.png" width="48" height="48" alt="dummy">
+            </a><br>
+            <p>Dummy</p>
         </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#platformtoolssupport">
                 <img src="dummy.png" width="48" height="48" alt="dummy">
             </a><br>
-            Dummy
+            <p>Dummy</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#platformtoolssupport">
                 <img src="dummy.png" width="48" height="48" alt="dummy">
             </a><br>
-            Dummy
+            <p>Dummy</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#platformtoolssupport">
                 <img src="dummy.png" width="48" height="48" alt="dummy">
             </a><br>
-            Dummy
+            <p>Dummy</p>
         </td>
     </tr>
 </table>
-</details>
 
 <br><br>
 
-<h2 id="sosmedandacademicrecords" align="center">🧑‍💻 Social Media & Academic Records</h3>
+<h2 id="sosmedandacademicrecords" align="center">🧑‍💻 Social Media & Academic Records</h2>
 <p align="center">
   <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=for-the-badge&logoColor=white&color=b22222"></a>
   <a align="center" href="https://www.linkedin.com/in/devancmw/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=for-the-badge&logoColor=white&color=4169E1"></a>
