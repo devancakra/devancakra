@@ -206,6 +206,36 @@
     <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/9f2be987-040c-4d1d-8834-ebeda59cb81d" width="48" height="48" alt="ubidots">
+            </a><br>
+            <p>Ubidots</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/73b9af83-664e-4d03-9c14-4a278684f3d9" width="48" height="48" alt="thingspeak">
+            </a><br>
+            <p>Thingspeak</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/9c0917aa-ed10-4cd1-a1ec-567a4235dcf2" width="48" height="48" alt="io-t.net">
+            </a><br>
+            <p>io-t.net</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/083896fe-2c3f-4ef2-9f31-ee5fc879429a" width="48" height="48" alt="antares">
+            </a><br>
+            <p>Antares</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="" width="48" height="48" alt="">
+            </a><br>
+            <p></p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
                 <img src="" width="48" height="48" alt="">
             </a><br>
             <p></p>
