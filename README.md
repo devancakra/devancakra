@@ -148,7 +148,7 @@
   <a align="center" href="https://digitalent.kominfo.go.id/" target="_blank"><img width="50" height="50" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/533e497c-4b1d-4a42-b94d-d6be6a69cd6f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://edspert.id/" target="_blank"><img width="50" height="50" alt="Edspert Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/5bce86ba-733a-4218-9605-87ad8f994966"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://www.dicoding.com/" target="_blank"><img width="50" height="50" alt="Dicoding Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/7c5ffc0f-f182-4095-8efb-122b1dad4b3b"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://indobot.co.id/" target="_blank"><img width="50" height="50" alt="Indobot Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/6a0b183a-ccf8-4232-b71b-209fe7783fe3"></a>    
+  <a align="center" href="https://indobot.co.id/" target="_blank"><img width="50" height="50" alt="Indobot Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/6ca90b3f-2c76-4e86-85f2-c707bb845af6"></a>    
 </p>
 
 <br><br>
