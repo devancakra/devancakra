@@ -1,11 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=devancakra&color=026efa&label=Visitor)
 <h2 id="about" align="center">👤 About me</h2>
-<p align="center">Hi everyone.. &nbsp;&nbsp; I am <strong>Devan</strong>, welcome to <strong>My Github</strong>.<br><br><strong>Bachelor of Computer Science (S.Kom)</strong> from <strong>UPN Veteran Jatim</strong>.<br><br>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.</p>
+<div align="center">
+    
+Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br><strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>Adaptable, like to learn new things, can work in a team or individually, and can solve problems.
+
+</div>
 
 <br><br>
 
 <h2 id="scope" align="center">✨ Expertise</h2>
-<p align="center">• Robotics & Embedded System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Internet of Things &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Software Engineering</p>
+<div align="center">
+    
+• ``` Robotics & Embedded System ``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • ``` Internet of Things ``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • ``` Software Engineering ```
+    
+</div>
 
 <br><br>
 
@@ -272,17 +280,17 @@
 <br><br>
 
 <h2 id="sosmedandacademicrecords" align="center">🧑‍💻 My Social Media & Academic Records</h2>
-<p align="center">
+<div align="center">
   <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=for-the-badge&logoColor=white&color=b22222"></a>&nbsp;&nbsp;
   <a align="center" href="https://www.linkedin.com/in/devancmw/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=for-the-badge&logoColor=white&color=4169E1"></a>&nbsp;&nbsp;
   <a align="center" href="https://orcid.org/0000-0002-9025-7242" target="_blank"><img alt="ORCid" src="https://img.shields.io/badge/-ORCID-lightgrey?logo=orcid&style=for-the-badge&logoColor=white&color=9ACD32"></a>&nbsp;&nbsp;
   <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/-G-%2DScholar-lightgrey?logo=google-scholar&style=for-the-badge&logoColor=white&color=0056f3"></a>
-</p>
+</div>
 
 <br><br>
 
 <h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
-<p id="community" align="center">
+<div id="community" align="center">
   <a align="center" href="https://www.instagram.com/robotics_upnjatim/" target="_blank"><img width="50" height="50" alt="Robotics UPN Community" src="https://github.com/devancakra/devancakra/assets/54527592/729676d2-e6e2-4fc3-a599-b86aae653bda"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://digitalent.kominfo.go.id/" target="_blank"><img width="50" height="50" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/533e497c-4b1d-4a42-b94d-d6be6a69cd6f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://edspert.id/" target="_blank"><img width="50" height="50" alt="Edspert Community" src="https://github.com/devancakra/devancakra/assets/54527592/5bce86ba-733a-4218-9605-87ad8f994966"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -294,12 +302,12 @@
   <a align="center" href="https://progate.com/" target="_blank"><img width="50" height="50" alt="Progate Community" src="https://github.com/devancakra/devancakra/assets/54527592/350c2ce4-d905-45f2-8419-288134181545"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="50" height="50" alt="ICS Community" src="https://github.com/devancakra/devancakra/assets/54527592/cf9f0e97-18f4-402c-9913-a79d93d2373f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="center" href="#" disabled><img width="50" height="50" alt="plus" src="https://github.com/devancakra/devancakra/assets/54527592/a955ad32-d594-4d99-a27d-7553d6d3b0d3"></a>
-</p>
+</div>
 
 <br><br>
 
-<p id="githubstats" align="center">
+<div id="githubstats" align="center">
   <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&theme=tokyonight" style="margin-top: 30px">&nbsp;&nbsp;&nbsp;&nbsp;
       
   <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devancakra&show_icons=true&theme=tokyonight" style="margin-top: 30px">
-</p>
+</div>
