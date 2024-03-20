@@ -146,13 +146,19 @@
             </a><br>
             <p>Arduino IDE</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/45beed2a-5967-41e3-a6e0-8c17254c2e37" width="48" height="48" alt="thonnyide">
             </a><br>
             <p>Thonny IDE</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/e9993e9f-4b58-4cf6-b223-8bb558bdaa8a" width="48" height="48" alt="platformio">
+            </a><br>
+            <p>PlatformIO</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
@@ -174,36 +180,30 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/ed273093-97ba-43d9-8f0c-801f99de8645" width="48" height="48" alt="twilio">
             </a><br>
-            <p></p>
+            <p>Twilio</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/35c37a5b-a19d-4411-b49a-21266c225455" width="48" height="48" alt="telegram">
             </a><br>
-            <p></p>
+            <p>Telegram</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/b9ec0b5c-6497-47b1-be6a-ea83095d97d3" width="48" height="48" alt="blynk">
             </a><br>
-            <p></p>
+            <p>Blynk IoT</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#platformtoolssupport">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/5675f116-ab96-490e-81a1-dbe5fbcf20eb" width="48" height="48" alt="thingsboard">
+            </a><br>
+            <p>ThingsBoard</p>
         </td>
     </tr>
     <tr>
-        <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
-            </a><br>
-            <p></p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
-                <img src="" width="48" height="48" alt="">
-            </a><br>
-            <p></p>
-        </td>
         <td align="center" width="96" height="96">
             <a href="#platformtoolssupport">
                 <img src="" width="48" height="48" alt="">
