@@ -28,14 +28,29 @@
             <a href="#language">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/8fe43f79-24e8-45b7-be67-0c0fa3d8eaa1" width="48" height="48" alt="vb6">
             </a><br>
-            <p>VisualBasic 6</p>
+            <p>VB 6</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#language">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/aecc659d-7159-46f0-bfe3-bbc4c8d9ad07" width="48" height="48" alt="html5">
+            </a><br>
+            <p>HTML 5</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#language">
+                <img src="https://github.com/devancakra/devancakra/assets/54527592/77b4c34d-a648-4505-8be5-067e5d671d2f" width="48" height="48" alt="css3">
+            </a><br>
+            <p>CSS 3</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#language">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/e648b21a-0ce7-45d9-bf29-f9773a4a50d1" width="48" height="48" alt="js">
             </a><br>
             <p>Javascript</p>
-        </td><td align="center" width="96" height="96">
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96" height="96">
             <a href="#language">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/73f1b500-b5e5-472e-85d3-5ef7602830bd" width="48" height="48" alt="php">
             </a><br>
@@ -47,8 +62,6 @@
             </a><br>
             <p>SQL</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#language">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/d60475b9-36de-49a1-8d77-98eb314168b7" width="48" height="48" alt="json">
