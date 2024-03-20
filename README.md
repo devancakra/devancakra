@@ -9,7 +9,7 @@
 
 <br><br>
 
-<h3 id="basicknowledge" align="center">💻 Basic Knowledge Skills :</h3>
+<h3 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h3>
 <details>
 <summary><strong>Programming Language/Tools/ETC</strong></summary>
 <br>
@@ -64,7 +64,7 @@
 
 <br><br>
 
-<h2 id="sosmedandacademicrecords" align="center">🧑‍💻 Social Media & Academic Records :</h3>
+<h2 id="sosmedandacademicrecords" align="center">🧑‍💻 Social Media & Academic Records</h3>
 <p align="center">
   <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/-G-%2DMail-lightgrey?logo=gmail&style=for-the-badge&logoColor=white&color=b22222"></a>
   <a align="center" href="https://www.linkedin.com/in/devancmw/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linked%20in-lightgrey?logo=linkedin&style=for-the-badge&logoColor=white&color=4169E1"></a>
