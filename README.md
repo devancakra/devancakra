@@ -145,4 +145,5 @@
 <p id="githubstats" align="center">
   <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Devan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devancakra&show_icons=true&theme=tokyonight">
+  <img align="center" alt="Robotics UPN Community" src="https://github.com/devancakra/devancakra/assets/54527592/729676d2-e6e2-4fc3-a599-b86aae653bda">
 </p>
