@@ -10,7 +10,7 @@
 <h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
-Hi everyone.. &nbsp;&nbsp; I'm <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>. I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
+<img src="https://github.com/devancakra/devancakra/assets/54527592/02dcee98-9001-4933-b6d2-c012ca395832" height="18px"> Hi everyone... &nbsp;&nbsp; I'm <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
 
 </div>
 
