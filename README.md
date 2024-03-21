@@ -17,9 +17,9 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
 <br><br>
 
 <h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
-<details>
-<summary align="center"><strong>Programming Language/Platform/Tools/Support</strong></summary>
-<br>
+<div align="center">
+Some of the Programming Languages, Development Tools, and other things I've used for work.<br><br>
+    
 <table align="center">
     <tr>
         <td align="center" width="96" height="96">
@@ -297,7 +297,7 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
         </td>
     </tr>
 </table>
-</details>
+</div>
 
 <br><br>
 
