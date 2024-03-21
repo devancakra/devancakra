@@ -41,100 +41,98 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
 <br><br>
 
 <h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
-<h4 id="language" align="center"><strong>Programming Language</strong></h4>
+<details>
+<summary align="center"><strong>Programming Language/Platform/Tools/Support</strong></summary>
+<br>
 <table align="center">
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#language">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/ea01bef9-194b-4e16-af0f-349cba7a3f7c" width="48" height="48" alt="c">
             </a><br>
             <p>C</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#language">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/db0ac42d-0271-438c-ab82-c3b4cba39919" width="48" height="48" alt="c++">
             </a><br>
             <p>C++</p>
         </td><td align="center" width="96" height="96">
-            <a href="#language">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/8fe43f79-24e8-45b7-be67-0c0fa3d8eaa1" width="48" height="48" alt="vb6">
             </a><br>
             <p>VB 6</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#language">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/e648b21a-0ce7-45d9-bf29-f9773a4a50d1" width="48" height="48" alt="js">
             </a><br>
             <p>Javascript</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#language">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/73f1b500-b5e5-472e-85d3-5ef7602830bd" width="48" height="48" alt="php">
             </a><br>
             <p>PHP</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#language">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/505ef7c4-afe3-480a-b3a6-fc6f7a98c8f5" width="48" height="48" alt="sql">
             </a><br>
             <p>SQL</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#language">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/5d40394a-1d83-4da0-b4ac-543b286ae781" width="48" height="48" alt="python">
             </a><br>
             <p>Python</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#language">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/0dd1d0b4-2df2-4336-be42-a2256f40087f" width="48" height="48" alt="micropython">
             </a><br>
             <p>MicroPython</p>
         </td>
     </tr>
-</table><br>
-
-<h4 id="platformtoolssupport" align="center"><strong>Platform/Tools/Support</strong></h4>
-<table align="center">
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/426a124c-d17f-487b-8f0a-62233acb249b" width="48" height="48" alt="vscode">
             </a><br>
             <p>VS Code</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/480e56c5-fb60-4490-8467-e65bf6226af9" width="48" height="48" alt="xampp">
             </a><br>
             <p>Xampp</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/83d22e48-ab9e-487b-9ed7-8ecf47a70087" width="48" height="48" alt="git">
             </a><br>
             <p>Git</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/dc7ef77d-cecf-44b9-98a0-ddc21257149c" width="48" height="48" alt="mysql">
             </a><br>
             <p>MySQL</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/53cb5493-db97-4e14-a8d6-514545a292ac" width="48" height="48" alt="mongodb">
             </a><br>
             <p>MongoDB</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/7ad18c77-809a-4196-a132-f69ec2127d35" width="48" height="48" alt="composer">
             </a><br>
             <p>Composer</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/ee055d6d-6f54-42e9-ba65-0b6454cf8ff4" width="48" height="48" alt="ngrok">
             </a><br>
             <p>Ngrok</p>
@@ -142,189 +140,188 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/f3b9512c-7b64-4705-8a94-643468a88d7f" width="48" height="48" alt="bootstrap">
             </a><br>
             <p>Bootstrap</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/95c3ea85-f316-4b04-b692-73af4150e893" width="48" height="48" alt="codeigniter">
             </a><br>
             <p>CodeIgniter</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/689180c6-cb43-434f-99b7-6dee7d51ee23" width="48" height="48" alt="laravel">
             </a><br>
             <p>Laravel</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/8a0e9f9a-bdd8-4356-a920-94f2619e09c3" width="48" height="48" alt="nodejs">
             </a><br>
             <p>Node JS</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/928b0e03-852c-4ee8-ad56-475024fb386a" width="48" height="48" alt="react">
             </a><br>
             <p>React JS</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/fcacc184-235f-43bd-b787-d92627e4cc98" width="48" height="48" alt="vuejs">
             </a><br>
             <p>Vue JS</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/d2047da5-75fa-4616-a019-bfb2b3adae31" width="48" height="48" alt="docker">
             </a><br>
             <p>Docker</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/9a801466-35b6-4c4b-a3dd-4285fe97ef45" width="48" height="48" alt="firebase">
             </a><br>
             <p>Firebase</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/da8c2dca-a378-463f-8eae-35450036cfda" width="48" height="48" alt="arduinoide">
             </a><br>
             <p>Arduino IDE</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/45beed2a-5967-41e3-a6e0-8c17254c2e37" width="48" height="48" alt="thonnyide">
             </a><br>
             <p>Thonny IDE</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/e9993e9f-4b58-4cf6-b223-8bb558bdaa8a" width="48" height="48" alt="platformio">
             </a><br>
             <p>PlatformIO</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/57bf54f2-34c7-4de9-8026-f3146386edea" width="48" height="48" alt="kodular">
             </a><br>
             <p>Kodular</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/90ac93f9-050d-4b09-87b6-184cb369551e" width="48" height="48" alt="mitappinventor">
             </a><br>
             <p>MIT App Inventor</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/ed273093-97ba-43d9-8f0c-801f99de8645" width="48" height="48" alt="twilio">
             </a><br>
             <p>Twilio</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/35c37a5b-a19d-4411-b49a-21266c225455" width="48" height="48" alt="telegram">
             </a><br>
             <p>Telegram</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/b9ec0b5c-6497-47b1-be6a-ea83095d97d3" width="48" height="48" alt="blynk">
             </a><br>
             <p>Blynk IoT</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/5675f116-ab96-490e-81a1-dbe5fbcf20eb" width="48" height="48" alt="thingsboard">
             </a><br>
             <p>ThingsBoard</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/9f2be987-040c-4d1d-8834-ebeda59cb81d" width="48" height="48" alt="ubidots">
             </a><br>
             <p>Ubidots</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/73b9af83-664e-4d03-9c14-4a278684f3d9" width="48" height="48" alt="thingspeak">
             </a><br>
             <p>Thingspeak</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/c13b26e9-2dee-4a08-a526-ef28abaa8115" width="48" height="48" alt="mosquitto">
             </a><br>
             <p>Mosquito MQTT</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/9c0917aa-ed10-4cd1-a1ec-567a4235dcf2" width="48" height="48" alt="io-t.net">
             </a><br>
             <p>io-t.net</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/083896fe-2c3f-4ef2-9f31-ee5fc879429a" width="48" height="48" alt="antares">
             </a><br>
             <p>Antares</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/833b9ba4-19cc-4f5b-8d5e-b7f12cc55c8e" width="48" height="48" alt="nodered">
             </a><br>
             <p>Node Red</p>
         </td>  
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/044161c1-55bf-4dc0-9764-1e07a4fb0121" width="48" height="48" alt="hivemq">
             </a><br>
             <p>HiveMQ</p>
         </td>  
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/71dd917d-e8ec-40ec-80c0-7ab0996be1f5" width="48" height="48" alt="thingerio">
             </a><br>
             <p>Thinger.io</p>
-        </td>
-    </tr>
-    <tr>        
+        </td>  
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/c909b6a8-c6e5-4fc3-abae-eff7e925df6f" width="48" height="48" alt="eagle">
             </a><br>
             <p>Autodesk Eagle</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/460d37e8-dd5c-409e-8fcf-4b8b78356316" width="48" height="48" alt="gas">
             </a><br>
             <p>Google Apps Script</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/5b6124ba-712f-414f-8cae-734a975df49b" width="48" height="48" alt="matlab">
             </a><br>
             <p>Matlab</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#platformtoolssupport">
+            <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/d02bd0db-2595-4697-a35b-06f261bc747a" width="48" height="48" alt="photoshop">
             </a><br>
             <p>Adobe Photoshop</p>
         </td>
     </tr>
 </table>
+</details>
 
 <br><br>
 
