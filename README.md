@@ -10,32 +10,8 @@
 <h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
-Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>.<br><br>I am a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I am adaptable, like to learn new things, can work in a team or individually, and can solve problems.
+Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <strong>``` My Github ```</strong>. I am a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I am adaptable, like to learn new things, can work in a team or individually, and can solve problems.<br><br>My expertise is in the field: ``` Robotics & Embedded System ``` --- ``` Internet of Things ``` --- ``` Software Engineering ```.
 
-</div>
-
-<br><br>
-
-<h2 id="scope" align="center">✨ Expertise</h2>
-<h5><div align="center">
-    
-``` Robotics & Embedded System ``` --- ``` Internet of Things ``` --- ``` Software Engineering ```
-    
-</div></h5>
-
-<br><br>
-
-<h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
-<div id="community" align="center">
-  <a align="center" href="https://www.instagram.com/robotics_upnjatim/" target="_blank"><img width="50" height="50" alt="Robotics UPN Community" src="https://github.com/devancakra/devancakra/assets/54527592/729676d2-e6e2-4fc3-a599-b86aae653bda"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://digitalent.kominfo.go.id/" target="_blank"><img width="50" height="50" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/533e497c-4b1d-4a42-b94d-d6be6a69cd6f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://edspert.id/" target="_blank"><img width="50" height="50" alt="Edspert Community" src="https://github.com/devancakra/devancakra/assets/54527592/5bce86ba-733a-4218-9605-87ad8f994966"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://www.dicoding.com/" target="_blank"><img width="50" height="50" alt="Dicoding Community" src="https://github.com/devancakra/devancakra/assets/54527592/7c5ffc0f-f182-4095-8efb-122b1dad4b3b"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://nusabot.id/" target="_blank"><img width="50" height="50" alt="Nusabot Community" src="https://github.com/devancakra/devancakra/assets/54527592/2ddacc7d-1fb2-4500-b533-6c156fea54a4"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://www.youtube.com/channel/UCkTp-v7MD7C6rYnjsU0bBWg" target="_blank"><img width="50" height="50" alt="Ardumeka Community" src="https://github.com/devancakra/devancakra/assets/54527592/1d8cd489-355b-4bd3-9778-a5cbe248ee79"></a>
-  <a align="center" href="https://indobot.co.id/" target="_blank"><img width="50" height="50" alt="Indobot Community" src="https://github.com/devancakra/devancakra/assets/54527592/6ca90b3f-2c76-4e86-85f2-c707bb845af6"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://progate.com/" target="_blank"><img width="50" height="50" alt="Progate Community" src="https://github.com/devancakra/devancakra/assets/54527592/350c2ce4-d905-45f2-8419-288134181545"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="50" height="50" alt="ICS Community" src="https://github.com/devancakra/devancakra/assets/54527592/cf9f0e97-18f4-402c-9913-a79d93d2373f"></a>
 </div>
 
 <br><br>
@@ -324,6 +300,19 @@ Hi everyone.. &nbsp;&nbsp; I am <strong>``` Devan ```</strong>, welcome to <stro
 </details>
 
 <br><br>
+
+<h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
+<div id="community" align="center">
+  <a align="center" href="https://www.instagram.com/robotics_upnjatim/" target="_blank"><img width="50" height="50" alt="Robotics UPN Community" src="https://github.com/devancakra/devancakra/assets/54527592/729676d2-e6e2-4fc3-a599-b86aae653bda"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://digitalent.kominfo.go.id/" target="_blank"><img width="50" height="50" alt="DTS PROA Alumnus" src="https://github.com/devancakra/devancakra/assets/54527592/533e497c-4b1d-4a42-b94d-d6be6a69cd6f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://edspert.id/" target="_blank"><img width="50" height="50" alt="Edspert Community" src="https://github.com/devancakra/devancakra/assets/54527592/5bce86ba-733a-4218-9605-87ad8f994966"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://www.dicoding.com/" target="_blank"><img width="50" height="50" alt="Dicoding Community" src="https://github.com/devancakra/devancakra/assets/54527592/7c5ffc0f-f182-4095-8efb-122b1dad4b3b"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://nusabot.id/" target="_blank"><img width="50" height="50" alt="Nusabot Community" src="https://github.com/devancakra/devancakra/assets/54527592/2ddacc7d-1fb2-4500-b533-6c156fea54a4"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://www.youtube.com/channel/UCkTp-v7MD7C6rYnjsU0bBWg" target="_blank"><img width="50" height="50" alt="Ardumeka Community" src="https://github.com/devancakra/devancakra/assets/54527592/1d8cd489-355b-4bd3-9778-a5cbe248ee79"></a>
+  <a align="center" href="https://indobot.co.id/" target="_blank"><img width="50" height="50" alt="Indobot Community" src="https://github.com/devancakra/devancakra/assets/54527592/6ca90b3f-2c76-4e86-85f2-c707bb845af6"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://progate.com/" target="_blank"><img width="50" height="50" alt="Progate Community" src="https://github.com/devancakra/devancakra/assets/54527592/350c2ce4-d905-45f2-8419-288134181545"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="50" height="50" alt="ICS Community" src="https://github.com/devancakra/devancakra/assets/54527592/cf9f0e97-18f4-402c-9913-a79d93d2373f"></a>
+</div><br><br>
 
 <div id="githubstats" align="center">
   <img align="center" alt="Devan Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devancakra&show_icons=true&hide_border=true&layout=compact&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;
