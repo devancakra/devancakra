@@ -237,7 +237,7 @@ Some of the Programming Languages, Development Tools, and other things I've used
             <a href="#basicknowledge">
                 <img src="https://github.com/devancakra/devancakra/assets/54527592/c13b26e9-2dee-4a08-a526-ef28abaa8115" width="48" height="48" alt="mosquitto">
             </a><br>
-            <p>Mosquito MQTT</p>
+            <p>Mosquitto</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
